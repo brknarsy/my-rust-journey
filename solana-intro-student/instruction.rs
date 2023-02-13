@@ -16,8 +16,8 @@ struct StudentInstructionPayload {
 
 impl StudentInstruction {
     pub fn unpack(input: &[u8]) -> Result<Self, ProgramError> {
-        let (&variant, rest) => input.split_first().ok_or(ProgramError::InvalidInstructionData)?;
-        let payload = StudentInstructionPaylaod::try_from_slice(rest).unwrap();
+        let (&variant, rest) = input.split_first().ok_or(ProgramError::InvalidInstructionData)?;
+        let payload = StudentInstructionPayload::try_from_slice(rest).unwrap();
 
         Ok(match variant {
             0 => Self::CreateStudent {
