@@ -38,6 +38,9 @@ impl ProductInstruction {
                 price: payload.price,
                 quantity: payload.quantity,
             },
+            2 => Self::DeleteProductData {
+                name: payload.name,
+            },
             _ => return Err(ProgramError::InvalidInstructionData)
         })
     }
