@@ -1,7 +1,6 @@
 use solana_program::{
     account_info::{next_account_info, AccountInfo},
     system_instruction,
-    program_error::ProgramError,
     sysvar::{rent::Rent, Sysvar},
     entrypoint,
     entrypoint::ProgramResult,
@@ -38,7 +37,7 @@ pub fn create_student (
     let (pda, bump_seed) = Pubkey::find_program_address(&[initializer.key.as_ref(), name.as_bytes().as_ref()], program_id);
 
     let account_len: usize = 1 + (4 + name.len()) + (4 + message.len());
-    let rent = Rent::get();
+    let rent = Rent::get()?;
     let rent_lamports = rent.minimum_balance(account_len);
 
     invoke_signed(
@@ -49,7 +48,7 @@ pub fn create_student (
             rent_lamports,
             account_len.try_into().unwrap(),
             program_id,
-        )
+        ),
         //accounts
         &[initializer.clone(), pda_account.clone(), system_program.clone()],
         //seeds
@@ -67,7 +66,7 @@ pub fn create_student (
     student_data.is_initialized = true;
 
     msg!("Serializing account");
-    let student_data.serialize(&mut &mut pda_account.data.borrow_mut()[..])?;
+    student_data.serialize(&mut &mut pda_account.data.borrow_mut()[..])?;
     msg!("Serialized account");
     Ok(())
 }

@@ -1,0 +1,10 @@
+/home/ixoth/Personal/Rust/product-info/target/debug/deps/borsh_schema_derive_internal-74a487c41c0bdeb2.rmeta: /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/lib.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/helpers.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/enum_schema.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/struct_schema.rs
+
+/home/ixoth/Personal/Rust/product-info/target/debug/deps/libborsh_schema_derive_internal-74a487c41c0bdeb2.rlib: /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/lib.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/helpers.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/enum_schema.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/struct_schema.rs
+
+/home/ixoth/Personal/Rust/product-info/target/debug/deps/borsh_schema_derive_internal-74a487c41c0bdeb2.d: /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/lib.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/helpers.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/enum_schema.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/struct_schema.rs
+
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/lib.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/helpers.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/enum_schema.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.1/src/struct_schema.rs:

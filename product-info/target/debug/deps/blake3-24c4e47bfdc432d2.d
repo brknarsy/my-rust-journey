@@ -1,0 +1,14 @@
+/home/ixoth/Personal/Rust/product-info/target/debug/deps/blake3-24c4e47bfdc432d2.rmeta: /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/lib.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/guts.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/platform.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx2.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx512.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/portable.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse2.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse41.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/traits.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/join.rs
+
+/home/ixoth/Personal/Rust/product-info/target/debug/deps/blake3-24c4e47bfdc432d2.d: /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/lib.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/guts.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/platform.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx2.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx512.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/portable.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse2.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse41.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/traits.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/join.rs
+
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/lib.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/guts.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/platform.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx2.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_avx512.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/portable.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse2.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/ffi_sse41.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/traits.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/join.rs:

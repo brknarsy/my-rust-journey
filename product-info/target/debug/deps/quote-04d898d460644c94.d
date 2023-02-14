@@ -1,0 +1,13 @@
+/home/ixoth/Personal/Rust/product-info/target/debug/deps/quote-04d898d460644c94.rmeta: /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/home/ixoth/Personal/Rust/product-info/target/debug/deps/libquote-04d898d460644c94.rlib: /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/home/ixoth/Personal/Rust/product-info/target/debug/deps/quote-04d898d460644c94.d: /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs:

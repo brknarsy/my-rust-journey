@@ -1,0 +1,12 @@
+/home/ixoth/Personal/Rust/product-info/target/debug/deps/generic_array-bb41f1fa02b50d64.rmeta: /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impl_serde.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs
+
+/home/ixoth/Personal/Rust/product-info/target/debug/deps/generic_array-bb41f1fa02b50d64.d: /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impl_serde.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs /home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs
+
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impl_serde.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs:
+/home/ixoth/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs:
