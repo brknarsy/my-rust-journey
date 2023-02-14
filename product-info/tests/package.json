@@ -1,0 +1,18 @@
+{
+  "name": "product-info",
+  "version": "1.0.0",
+  "description": "tests for my product-info contract",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@project-serum/borsh": "^0.2.5",
+    "@solana/web3.js": "^1.73.2",
+    "dotenv": "^16.0.3",
+    "ts-node": "^10.9.1"
+  }
+}
